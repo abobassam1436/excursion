@@ -1,0 +1,22 @@
+body { background-color: black;
+text-align: center;}
+h1 {color: white;
+font-family: verdana;
+font-weight: normal;
+font-size: 50px;
+text-align: center;}
+#download {color: aquamarine;
+font-size: 16px;
+text-decoration: underline;}
+#mark {text-align: right;
+color: gray;}
+h2 {font-family: verdana;
+font-weight: 300;
+font-size: 42px;
+color: white;
+}
+p {font-family: verdana;
+font-size: 21px;
+color: gray;
+}
+a:visited{color: aquamarine;}
